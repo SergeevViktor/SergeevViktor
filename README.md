@@ -20,7 +20,7 @@ I have some works with Java, contact me if you have same interesting or some que
 * Film rating service: https://github.com/SergeevViktor/java-filmorate
 * Task manager: https://github.com/SergeevViktor/java-kanban
 
-You can find me:
+📫 How to reach me:
 * Email: equalizersva@yandex.com
 * Telegram: @equalizersva
 
