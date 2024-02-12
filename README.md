@@ -14,7 +14,8 @@ I'm interested in backend development technologies, algorithms and datastructure
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-I have some works with Java, contact me if you have same interesting or some questions!
+I have some works with Java, contact me if you have same interesting or any questions!
+Here are some of them:
 * Event planning service: https://github.com/SergeevViktor/java-explore-with-me
 * Item sharing service: https://github.com/SergeevViktor/java-shareit
 * Film rating service: https://github.com/SergeevViktor/java-filmorate
@@ -25,8 +26,6 @@ I have some works with Java, contact me if you have same interesting or some que
 * Telegram: @equalizersva
 
 <!--
-**Olik1/Olik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
