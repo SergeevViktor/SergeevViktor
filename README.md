@@ -14,7 +14,7 @@ I'm interested in backend development technologies, algorithms and datastructure
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-I have some works with Java, contact me if you have same interesting or any questions!/n
+I have some works with Java, contact me if you have same interesting or any questions!
 Here are some of them:
 * Event planning service: https://github.com/SergeevViktor/java-explore-with-me
 * Item sharing service: https://github.com/SergeevViktor/java-shareit
