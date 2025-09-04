@@ -23,7 +23,7 @@ Here are some of them:
 
 📫 How to reach me:
 * Email: equalizersva@yandex.ru
-* Telegram: @equalizersva
+* Telegram: @visheid
 
 <!--
 Here are some ideas to get you started:
