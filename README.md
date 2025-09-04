@@ -22,7 +22,7 @@ Here are some of them:
 * Task manager: https://github.com/SergeevViktor/java-kanban
 
 📫 How to reach me:
-* Email: equalizersva@yandex.com
+* Email: equalizersva@yandex.ru
 * Telegram: @equalizersva
 
 <!--
